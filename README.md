@@ -9,6 +9,6 @@
 -  Classify an output is a classification model
 -  Tuning and Evaluating
 
-
+# Type of Learning
 - Supervised Learning  - We give the input and desired output
 - Unsupervised Learning - We give data and the model observes some patterns and gives an output. (clustering)
