@@ -34,4 +34,4 @@ Distance depends on the context
 
 To find the distance between two points
 - Points can be multi dimensional
-- T0 find the distance between two points the should be in the same dimension
+- To find the distance between two points the should be in the same dimension
