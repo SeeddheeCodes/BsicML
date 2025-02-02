@@ -1,5 +1,5 @@
 
-# Steos to create a ML model
+# Steps to create a ML model
 
 -  Formulating the Question
 -  Finding and Understanding the Data
