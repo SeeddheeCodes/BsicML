@@ -16,4 +16,22 @@
 
 ## Supervised Learning
 
-- 
+### Regression
+    -   Outputs are continuous
+    -   Outputs can be flexibly defined
+
+### Classification
+    -   Used to predict a discrete label
+    -   Binary/Multiclass // Multilabel
+
+# Measuring Model Accuracy: Distance Formulas (How far off are we from the actual Output)
+
+Distance depends on the context
+- Euclidean Distance
+- Manhattan Distance
+- Hamming Distance
+
+
+T0 find the distance between two points
+    - Points can be multi dimensional
+    - TO find the distance between two points the should be in the same dimension
